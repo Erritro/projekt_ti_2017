@@ -2,3 +2,6 @@
 
 [] secure shell
 [] druga
+```python
+a = input("Co to jest?")
+```
